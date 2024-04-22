@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aurelia!</h1>
 <h3 align="center"> a passionate college student who's delving deeper into the tech industry </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aureliasindhu&label=Profile%20views&color=0e75b6&style=flat" alt="aureliasindhu" /> </p>
-
 - 🔭 I’m currently working on **another game project.**
 
 - 🌱 I’m currently delving **deeper into the fundamentals of C++.**
