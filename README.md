@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aurelia.sindhu@gmail.com**
 
-- ⚡ Fun fact **I enjoy my free time by doin activities related to art.**
+- ⚡ Fun fact **I enjoy my free time by doing activities related to art.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
