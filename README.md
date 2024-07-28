@@ -2,7 +2,6 @@
 <h3 align="center"> a passionate college student who's delving deeper into the tech industry </h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **my portfolio.**<be>
 - 🌱 I’m currently delving **deeper into the fundamentals of C++.**<be>
 - 👯 I’m looking to collaborate on **any projects that may hone my skills.**<be>
 - 🤝 I’m looking for help with **job hunting and projects to build my portfolio.**<be>
