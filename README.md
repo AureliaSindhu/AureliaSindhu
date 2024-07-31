@@ -3,9 +3,7 @@
 
 # 💫 About Me:
 - 🌱 I’m currently delving **deeper into the fundamentals of C++.**
-- 👯 I’m looking to collaborate on **any projects that may hone my skills.**
-- 🤝 I’m looking for help with **job hunting and projects to build my portfolio.**
-- 📫 How to reach me **aurelia.sindhu@gmail.com**
+- 👯 I’m looking to collaborate on **any projects.**
 - ⚡ Fun fact **I love baking!**
 
 # 💻 Tech Stack:
