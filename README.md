@@ -29,9 +29,9 @@ A passionate explorer in the tech world 🚀, constantly leveling up my coding g
 
 
 # ⊹ Find me on:
-* [Portfolio](https://aureliasindhu.github.io/portfolio/)
-* [LinkedIn](https://www.linkedin.com/in/aurelia-sindhunirmala/)
-* [Devpost](https://devpost.com/AureliaSindhu)
+* 👩🏻 [Portfolio](https://aureliasindhu.github.io/portfolio/)
+* 🖇️ [LinkedIn](https://www.linkedin.com/in/aurelia-sindhunirmala/)
+* 📽️ [Devpost](https://devpost.com/AureliaSindhu)
 ---
 
 [![Visitors](https://visitcount.itsvg.in/api?id=AureliaSindhu&icon=0&color=6)](https://visitcount.itsvg.in)  
