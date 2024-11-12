@@ -8,7 +8,7 @@ A passionate explorer in the tech world 🚀, constantly leveling up my coding g
 
 # ⵌ Recently:
 * Released a fun, MBTI-inspired test with a twist—Toast! Dive into [**Toastology**](bit.ly/toastology) and discover what kind of toast you really are! 🥖
-* Won 4 Hackathons: 🗃️ **Best Start-up** @UCR Bearhacks and @VT Hacks, 🥈 **2nd place** @Animal Hacks and @BobaHacks
+* Won 5 Hackathons: 🗃️ **Best Start-up** @UCR Bearhacks and @VT Hacks, 🥈 **2nd Place** @Animal Hacks and @BobaHacks, 🥇 **1st Place Solana Track** at SC Tech Week
 * Completed research diving into data science and AI/ML by [analyzing diabetes outcomes](https://drive.google.com/file/d/1qh8JyiKwSz-48Km4LrMK4SygHs1LZRvI/view) using machine learning models.
 
 
