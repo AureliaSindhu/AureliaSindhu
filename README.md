@@ -1,4 +1,4 @@
-# Hi there, I'm Aurelia!
+<!-- # Hi there, I'm Aurelia! -->
 <!-- A passionate explorer in the tech world 🚀, constantly leveling up my coding game! -->
 
 ![LinkedIn cover - 1](https://github.com/user-attachments/assets/10588f66-5af6-468f-b069-116c04386a5d)
