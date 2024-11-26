@@ -2,15 +2,15 @@
 
 ### lil things about me:
 <!-- * 🌱 Currently diving headfirst into **C++**, unearthing its secrets one pointer at a time. -->
-* 🤝 Always open to collaborating on **any projects** let’s build something awesome together!
-* 🍪 Fun fact: When I'm not coding, you’ll find me **baking sweet treats** in the kitchen. Code and cookies—what’s better?
+* Always open to collaborating on **any projects** let’s build something awesome together!
+* Fun fact: When I'm not coding, you’ll find me **baking sweet treats** in the kitchen. Code and cookies—what’s better?
 
 ### recently:
-* Released a fun, MBTI-inspired test with a twist—Toast! Dive into [**Toastology**](bit.ly/toastology) and discover what kind of toast you really are! 🥖
+* Released a fun, MBTI-inspired test with a twist—Toast! Check out [**Toastology**](bit.ly/toastology)! 
 * Won 5 Hackathons:
-  * 🗃️ **Best Start-up** @UCR Bearhacks and @VT Hacks
-  * 🥈 **2nd Place** @Animal Hacks and @BobaHacks
-  * 🥇 **1st Place Solana Track** at SC Tech Week
+  * **Best Start-up** @UCR Bearhacks and @VT Hacks
+  * **2nd Place** @Animal Hacks and @BobaHacks
+  * **1st Place Solana Track** at SC Tech Week
 * Completed research diving into data science and AI/ML by [analyzing diabetes outcomes](https://drive.google.com/file/d/1qh8JyiKwSz-48Km4LrMK4SygHs1LZRvI/view) using machine learning models.
 
 
@@ -31,8 +31,8 @@
 * **Top languages I’ve been working with** 🌐<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AureliaSindhu&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### find me on
-* 👩🏻 [Portfolio](https://aureliasindhu.github.io/portfolio/) | 🖇️ [LinkedIn](https://www.linkedin.com/in/aurelia-sindhunirmala/) | 📽️ [Devpost](https://devpost.com/AureliaSindhu)
+### links
+👩🏻 [Portfolio](https://aureliasindhu.github.io/portfolio/) | 🖇️ [LinkedIn](https://www.linkedin.com/in/aurelia-sindhunirmala/) | 📽️ [Devpost](https://devpost.com/AureliaSindhu)
 
 [![Visitors](https://visitcount.itsvg.in/api?id=AureliaSindhu&icon=0&color=6)](https://visitcount.itsvg.in)  
 <!--Let's connect and create something amazing together! 😊-->
