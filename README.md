@@ -24,11 +24,8 @@
 | **Design**           | ![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 
 ### fun stats
-* **My Stats** 📈 <br>
 ![](https://github-readme-stats.vercel.app/api?username=aureliasindhu&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-* **Streaks that never end (i'm trying)!** 🔥<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AureliaSindhu&theme=nightowl&hide_border=false)<br/>
-* **Top languages I’ve been working with** 🌐<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AureliaSindhu&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### links
