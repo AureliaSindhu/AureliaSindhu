@@ -6,7 +6,7 @@
 * Fun fact: When I'm not coding, you’ll find me **baking sweet treats** in the kitchen. Code and cookies—what’s better?
 
 ### recently:
-* Released a fun, MBTI-inspired test with a twist—Toast! Check out [**Toastology**](bit.ly/toastology)! 
+* Released a fun, MBTI-inspired test with a twist—Toast! Check out [**Toastology**](https://bit.ly/toastology)! 
 * Won 5 Hackathons:
   * **Best Start-up** @UCR Bearhacks and @VT Hacks
   * **2nd Place** @Animal Hacks and @BobaHacks
