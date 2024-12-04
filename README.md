@@ -3,7 +3,7 @@
 # Aurelia Sindhu
 *Your friendly coder and baker developer*
 
-**Date:** 12/03/2024 &nbsp;&nbsp;&nbsp;&nbsp; **Receipt No:** 001
+**Date:** 12/03/2024 &nbsp;&nbsp;&nbsp;&nbsp; **ReadMe:** 001
 
 ---
 ## Lil Things About Me:
