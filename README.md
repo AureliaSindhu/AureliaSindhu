@@ -1,8 +1,4 @@
 <div align="center">
-  <img width="400" src="https://github.com/AureliaSindhu/AureliaSindhu/assets/YOUR_ASSET_ID/receipt.png" alt="Receipt-style card">
-</div>
-
-<div align="center">
 
 # Aurelia Sindhu
 *Your friendly coder and baker developer*
