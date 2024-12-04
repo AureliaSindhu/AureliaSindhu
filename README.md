@@ -6,7 +6,8 @@
 
 ### Lil Things About Me:
 <samp>Always open to collaborating on any projects!</samp>
-<! --- -->
+
+
 <samp>Fun fact: When not coding, you'll find me baking </samp>
 <samp> sweet treats. Code and cookies—what's better? </samp>
 
