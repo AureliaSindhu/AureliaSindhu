@@ -5,8 +5,9 @@
 <samp>**Date:** 12/03/2024 &nbsp;&nbsp;&nbsp;&nbsp; **ReadMe:** 001</samp>
 
 ### Lil Things About Me:
-- <samp>Always open to collaborating on any projects</samp>
-- <samp>Fun fact: When not coding, you'll find me baking sweet treats. Code and cookies—what's better?</samp>
+<samp>Always open to collaborating on any projects</samp>
+<samp>Fun fact: When not coding, you'll find me baking 
+sweet treats. Code and cookies—what's better?</samp>
 
 ### Recently:
 - <samp>Released an MBTI-inspired test: [**Toastology**](https://bit.ly/toastology).</samp>
