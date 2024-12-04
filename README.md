@@ -1,35 +1,67 @@
-## Hi I'm Lia! 
+<div style="width: 100%; max-width: 400px; margin: 0 auto; font-family: 'Courier New', Courier, monospace; font-size: 14px; text-align: left; border: 2px solid #000; padding: 20px; line-height: 1.6; background-color: transparent; box-shadow: 0 0 10px rgba(0,0,0,0.1); color: #000;">
+  <div style="text-align: center; margin-bottom: 20px; border-bottom: 2px solid #000; padding-bottom: 10px;">
+    <h1 style="margin: 0; font-size: 24px; font-weight: bold;">Aurelia Sindhu</h1>
+    <p style="margin: 5px 0 0; font-size: 14px; font-style: italic;">Your friendly coder and baker developer</p>
+  </div>
 
-### lil things about me:
-<!-- * 🌱 Currently diving headfirst into **C++**, unearthing its secrets one pointer at a time. -->
-* Always open to collaborating on **any projects** let’s build something awesome together!
-* Fun fact: When I'm not coding, you’ll find me **baking sweet treats** in the kitchen. Code and cookies—what’s better?
+  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+    <p style="margin: 0;"><strong>Date:</strong> 12/03/2024</p>
+    <p style="margin: 0;"><strong>Receipt No:</strong> 001</p>
+  </div>
 
-### recently:
-* Released a fun, MBTI-inspired test with a twist—Toast! Check out [**Toastology**](https://bit.ly/toastology)! 
-* Won 5 Hackathons:
-  * **Best Start-up** @UCR Bearhacks and @VT Hacks
-  * **2nd Place** @Animal Hacks and @BobaHacks
-  * **1st Place Solana Track** at SC Tech Week
-* Completed research diving into data science and AI/ML by [analyzing diabetes outcomes](https://drive.google.com/file/d/1qh8JyiKwSz-48Km4LrMK4SygHs1LZRvI/view) using machine learning models.
+  <hr style="border: none; border-top: 1px dashed #000; margin: 10px 0;">
 
+  <div style="margin-bottom: 15px;">
+    <h2 style="font-size: 16px; margin: 0 0 5px;">Lil Things About Me:</h2>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Always open to collaborating on any projects!</li>
+      <li>Fun fact: When not coding, you'll find me baking sweet treats. Code and cookies—what's better?</li>
+    </ul>
+  </div>
 
-### tech stack:
-| 🌟 **Category**       | 🚀 **Tech Stack**                                                                                                       |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**         | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend**          | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
-| **Database**         | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Machine Learning** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/scikit%20learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-%2300A3E0.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-%234F8C8C.svg?style=for-the-badge&logo=seaborn&logoColor=white) |
-| **Design**           | ![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+  <div>
+    <h2 style="font-size: 16px; margin: 0 0 5px;">Recently:</h2>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Released a fun, MBTI-inspired test with a twist—Toast! Check out <strong><a href="https://bit.ly/toastology" target="_blank" style="text-decoration: none; color: inherit;">Toastology</a></strong>.</li>
+      <li>Hackathon Wins (5):
+        <ul style="padding-left: 20px; list-style: none;">
+          <li>✓ Best Start-up: @UCR Bearhacks, @VT Hacks</li>
+          <li>✓ 2nd Place: @Animal Hacks, @BobaHacks</li>
+          <li>✓ 1st Place Solana Track: @SC Tech Week</li>
+        </ul>
+      </li>
+      <li>Completed research on diabetes outcomes using machine learning models.</li>
+    </ul>
+  </div>
 
-### fun stats
-![](https://github-readme-stats.vercel.app/api?username=aureliasindhu&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AureliaSindhu&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AureliaSindhu&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <hr style="border: none; border-top: 1px dashed #000; margin: 15px 0;">
+  
+  <div style="text-align: center; font-style: italic; font-size: 16px; margin: 10px 0;">
+    "Code and cookies—what's better?"
+  </div>
+  
+  <hr style="border: none; border-top: 1px dashed #000; margin: 15px 0;">
 
-### links
-👩🏻 [Portfolio](https://aureliasindhu.github.io/portfolio/) | 🖇️ [LinkedIn](https://www.linkedin.com/in/aurelia-sindhunirmala/) | 📽️ [Devpost](https://devpost.com/AureliaSindhu)
+  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+    <div>
+      <p style="margin: 0; font-size: 12px; font-weight: 600;">Connect with me:</p>
+      <p style="margin: 0; font-size: 12px; font-weight: 600;">
+        <a href="https://www.instagram.com/aacodee/?hl=en" target="_blank" style="text-decoration: none; color: inherit;">IG</a> | 
+        <a href="https://www.linkedin.com/in/aurelia-sindhunirmala/" target="_blank" style="text-decoration: none; color: inherit;">LinkedIn</a> | 
+        <a href="https://devpost.com/AureliaSindhu" target="_blank" style="text-decoration: none; color: inherit;">Devpost</a>
+      </p>
+    </div>
+    <div style="text-align: right;">
+      <p style="margin: 0; font-size: 12px;">Creativity:</p>
+      <p style="margin: 0; font-size: 16px; font-weight: bold;">∞</p>
+    </div>
+  </div>
 
-[![Visitors](https://visitcount.itsvg.in/api?id=AureliaSindhu&icon=0&color=6)](https://visitcount.itsvg.in)  
-<!--Let's connect and create something amazing together! 😊-->
+  <div style="text-align: center; margin-top: 20px;">
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=AureliaSindhu&label=cafe%20visits&color=12&icon=7&pretty=true" />
+    </a>
+  </div>
+  
+  <p style="text-align: center; font-size: 12px; margin-top: 20px;">made with a bunch of americano, ☕️ <strong>aacode<strong></p>
+</div>
