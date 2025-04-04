@@ -1,4 +1,4 @@
-*Date: 04/03/2025* | *ReadMe: 002*
+*Last Updated: 04/03/2025* | *ReadMe: 002*
 
 I'm always open to collaborating on projects. When I'm not coding, you can find me baking sweet treats at home or sipping my americano at cafes. 
 
