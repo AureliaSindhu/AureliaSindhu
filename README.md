@@ -1,40 +1,28 @@
-<div align="center">
+*Date: 04/03/2025 | ReadMe: 002*
 
-<!-- ### <samp>Aurelia Sindhu</samp> -->
-### <samp>*Your friendly coder and baker developer*</samp>
-<samp>**Date:** 12/03/2024 &nbsp;&nbsp;&nbsp;&nbsp; **ReadMe:** 001</samp>
+I'm always open to collaborating on projects. When I'm not coding, you can find me baking sweet treats at home or chilling at cafes. 
 
-### Lil Things About Me:
-<samp>Always open to collaborating on any projects!</samp>
+### Recent Highlights  
+- **Trending:** 110k+ engagment for your personal online photobooth, [ClickClack](https://clickclack-aacode.vercel.app/).
+- **Prev. Release:** Launched an MBTI-inspired test called [Toastology](https://bit.ly/toastology).
+- **Hackathon Wins (6):** Best Start-up @ UCR Bearhacks and VTHacks; 2nd Place at
+BobaHacks and Animal Hacks; 1st Place Solana Track at SC Tech Week; Sustainability Green City at Spartahacks. 
 
 
-<samp>Fun fact: When not coding, you'll find me baking sweet treats. Code and cookies—what's better? </samp>
+### Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### Recently:
-- <samp>Released an MBTI-inspired test: [**Toastology**](https://bit.ly/toastology).</samp>
-- <samp> Hackathon Wins (5): </samp>
-  - <samp>✓ Best Start-up: @UCR Bearhacks, @VT Hacks</samp>
-  - <samp>✓ 2nd Place: @Animal Hacks, @BobaHacks</samp>
-  - <samp>✓ 1st Place Solana Track: @SC Tech Week</samp>
-- <samp>Completed research on diabetes outcomes using machine learning models.</samp>
+### stats
+![](https://github-readme-stats.vercel.app/api?username=aureliasindhu&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aureliasindhu&theme=react&hide_border=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliasindhu&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
-<!-- --- -->
+### Trophies
+![](https://github-trophies.vercel.app/?username=aureliasindhu&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-<samp>"Code and cookies—what's better?"</samp>
+[![](https://visitcount.itsvg.in/api?id=aureliasindhu&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- --- -->
 
-**Connect with me:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Creativity:**  
-[IG](https://www.instagram.com/aacodee/?hl=en)</samp> | [LinkedIn](https://www.linkedin.com/in/aurelia-sindhunirmala/)</samp> | [Devpost](https://devpost.com/AureliaSindhu)</samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ∞ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Website](https://aacode.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/aurelia-sindhunirmala/)</samp> | [Devpost](https://devpost.com/AureliaSindhu)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=AureliaSindhu&label=cafe%20visits&color=12&icon=7&pretty=true" />
-</a>
-
-<samp>*made with a bunch of americano, ☕️ **aacode***</samp>
-
-</div>
-
-<!--START_SECTION:owl-->
-<!--END_SECTION:owl-->
+*made with a bunch of americano, ☕️ **aacode***
