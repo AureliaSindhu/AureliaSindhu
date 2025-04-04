@@ -25,8 +25,6 @@ BobaHacks and Animal Hacks; 1st Place Solana Track at SC Tech Week; Sustainabili
 ### connect with me at
 [Website](https://aacode.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/aurelia-sindhunirmala/)</samp> | [Devpost](https://devpost.com/AureliaSindhu)
 
-##
-
 *made with a bunch of americano, ☕️ **aacode***
 
 <img src="https://github.com/user-attachments/assets/a1886660-d9e1-41b6-9056-3462d1bdd6b0"  width="50" height="50"/>
