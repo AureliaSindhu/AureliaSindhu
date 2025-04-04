@@ -4,7 +4,7 @@ I'm always open to collaborating on projects. When I'm not coding, you can find 
 
 ### recent highlights  
 - **Trending:** 110k+ engagment for your personal online photobooth, [ClickClack](https://clickclack-aacode.vercel.app/).
-- **Prev. Release:** Launched an MBTI-inspired test called [Toastology](https://bit.ly/toastology).
+- **Prev. Release:** 40k+ engagement for an MBTI-inspired test called [Toastology](https://bit.ly/toastology).
 - **Hackathon Wins (6):** Best Start-up @ UCR Bearhacks and VTHacks; 2nd Place at
 BobaHacks and Animal Hacks; 1st Place Solana Track at SC Tech Week; Sustainability Green City at Spartahacks. 
 
