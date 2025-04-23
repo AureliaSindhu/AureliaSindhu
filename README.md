@@ -5,8 +5,7 @@ I'm always open to collaborating on projects. When I'm not coding, you can find 
 ### recent highlights  
 - **Trending:** 110k+ engagement for your personal online photobooth, [ClickClack](https://clickclack-aacode.vercel.app/).
 - **Prev. Release:** 40k+ engagement for an MBTI-inspired test called [Toastology](https://bit.ly/toastology).
-- **Hackathon Wins (6):** Best Start-up @ UCR Bearhacks and VTHacks; 2nd Place at
-BobaHacks and Animal Hacks; 1st Place Solana Track at SC Tech Week; Sustainability Green City at Spartahacks. 
+- **Traveling to Hacakathons:** current wins (7) 
 
 ### tech stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
