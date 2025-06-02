@@ -22,7 +22,7 @@ I'm always open to collaborating on projects. When I'm not coding, you can find 
 
 ####
 <!-- ### connect with me at -->
-[Website](aureliasindhu.com) | [LinkedIn](https://www.linkedin.com/in/aurelia-sindhunirmala/) | [Devpost](https://devpost.com/AureliaSindhu) | [Branding](https://www.figma.com/proto/GvPJTws5xPyyQoapNYJbDw/portfo?page-id=0%3A1&node-id=367-614&viewport=-813%2C-4619%2C0.29&t=uc3zhP929KxXZTA0-1&scaling=contain&content-scaling=fixed&starting-point-node-id=367%3A614)
+[Website](https://www.aureliasindhu.com/) | [LinkedIn](https://www.linkedin.com/in/aurelia-sindhunirmala/) | [Devpost](https://devpost.com/AureliaSindhu) | [Branding](https://www.figma.com/proto/GvPJTws5xPyyQoapNYJbDw/portfo?page-id=0%3A1&node-id=367-614&viewport=-813%2C-4619%2C0.29&t=uc3zhP929KxXZTA0-1&scaling=contain&content-scaling=fixed&starting-point-node-id=367%3A614)
 
 *made with a bunch of americano, ☕️ [**aacode**](https://www.instagram.com/aacodee/?hl=en)*
 
